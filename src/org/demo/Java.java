@@ -16,4 +16,5 @@ public class Java {
 		System.out.println(" Duplicate String");
 		
 		System.out.println(s1);
+		System.out.println("duplicate suceed");
 }}
