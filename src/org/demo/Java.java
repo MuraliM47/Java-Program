@@ -12,6 +12,8 @@ public class Java {
 		for (char ch: s.toCharArray()) {
 			s1.add(ch);
 		}
+		System.out.println("Remove Duplicate String");
+		System.out.println(" Duplicate String");
 		
 		System.out.println(s1);
 }}
